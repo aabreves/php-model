@@ -1,0 +1,13 @@
+{
+  "name": "php-model-v1.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "/home/breves/repo/projects/php-model/php-model-v1.0",
+  "author": "aa.breves <aa.breves@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.1"
+  }
+}

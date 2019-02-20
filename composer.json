@@ -1,0 +1,13 @@
+{
+    "name": "breves/php-model-v1.0",
+    "description": "a php project model",
+    "require": {
+        "php": "5.6"
+    },
+    "authors": [
+        {
+            "name": "aa.breves",
+            "email": "aa.breves@outlook.com"
+        }
+    ]
+}
